@@ -1,12 +1,12 @@
-# BouncyBall
+# MCPETransfer
 
-
-A MCPE proxy, for use with PocketMine or other MCPE servers.
+MCPETransfer is a fork of @jython234's BouncyBall proxy for PocketMine that makes transferring clients from one PocketMine server to another possible,
 
 ## Software Requirements
 
 - [Oracle JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - [Apache Maven](https://maven.apache.org/)
+
 If you are on Windows, you might need to add the JDK and Maven bin folders to your PATH. 
 
 ## How to use MCPETransfer
