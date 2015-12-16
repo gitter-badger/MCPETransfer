@@ -6,9 +6,9 @@ import net.beaconpe.bouncyball.util.ProxyException;
  * Main class
  */
 public class BouncyBall implements Runnable{
-    public final static String SOFTWARE_VERSION = "v1.0-SNAPSHOT";
-    public final static String MCPE_VERSION = "0.10.4";
-    public final static int MCPE_PROTOCOL = 20;
+    public final static String SOFTWARE_VERSION = "v2.0-SNAPSHOT";
+    public final static String MCPE_VERSION = "0.13.1";
+    public final static int MCPE_PROTOCOL = 38;
 
     public static MinecraftPEServer SERVER_INSTANCE;
 
