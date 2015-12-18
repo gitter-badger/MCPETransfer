@@ -1,5 +1,7 @@
 # MCPETransfer
 
+[![Join the chat at https://gitter.im/ImagicalCorp/MCPETransfer](https://badges.gitter.im/ImagicalCorp/MCPETransfer.svg)](https://gitter.im/ImagicalCorp/MCPETransfer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MCPETransfer is a fork of @jython234's BouncyBall proxy for PocketMine that makes transferring clients from one PocketMine server to another possible,
 
 ## Software Requirements
